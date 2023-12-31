@@ -4,4 +4,5 @@
 <li>Used Python's Pandas library for cleaning and manipulating the dataset containing feedback from airline passengers found on Kaggle with 103904 entries.</li>
 <li>Visualized the data in order to analyze it using Seaborn's diverse range of visual tools</li>
 <li>Evaluated and interpreted the data in order to come up with solutions for how airlines can improve their customer satisfaction and to better understand what makes a good airline.</li>
-[Link to Project 1](https://github.com/ananyadevraj/Project-1)
+<a href = 'https://github.com/ananyadevraj/Project-1'> Link to Project 1 on GitHub </a>
+<a href = 'https://www.kaggle.com/code/ananyadevraj/eda-airline-passenger-satisfaction'> Direct link to Kaggle Notebook </a>
