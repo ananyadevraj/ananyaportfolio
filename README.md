@@ -2,6 +2,7 @@
 <h2> Education </h2>
 <li> New York University: Double B.A in Data Science and Economics, August 2022-Present</li>
 <li> UWCSEA Singapore: IB Diploma, Higher level subjects: Mathematics, Chemistry, & Economics, scored 44/45 </li>
+<hr>
 <h2> Projects </h2>
 <h3> Project 1: Exploratory Data Analysis: Airline Passenger Satisfaction</h3>
 <li>Investigated what makes a good airline and which factors customers value the most in terms of their satisfaction with an inflight experience through a report-style EDA.</li>
