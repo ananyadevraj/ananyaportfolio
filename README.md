@@ -10,6 +10,6 @@
 <li>Used <em>Python's Pandas library</em> for cleaning and manipulating the dataset containing feedback from airline passengers found on Kaggle with 103904 entries.</li>
 <li>Visualized the data in order to analyze it using <em>Seaborn and Matplotlib's</em> diverse range of visual tools</li>
 <li>Evaluated and interpreted the data in order to come up with solutions for how airlines can improve their customer satisfaction and to better understand what makes a good airline.</li>
-<li>Performed <em>statistical analysis and probability theory<em> using correlation coefficients and by creating a function to calculate conditional probabilities and using Python's stats library. </li>
+<li>Performed <em>statistical analysis and probability theory</em> using correlation coefficients and by creating a function to calculate conditional probabilities and using Python's stats library. </li>
 <li> Fit a <em>logistic regression model</em> to the data in order to predict whether a customer will be satisfied or dissatisfied using classification. </li>
 <a href = 'https://www.kaggle.com/code/ananyadevraj/eda-airline-passenger-satisfaction'> View directly on Kaggle Notebook </a>
